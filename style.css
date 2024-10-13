@@ -12,9 +12,9 @@
 }
 
 .logo{
-    width: 140px;
+    width: 100px;
     position: absolute;
-    top: 4%;
+    top: 1%;
     left: 10%;
 }
 
@@ -401,7 +401,7 @@ hr{
     opacity: 0.1;
     position: absolute;
     left: 50%;
-    top: 35%;
+    top: 38%;
     transform: translate(-50%, -50%);
 }
 
